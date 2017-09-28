@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:500,900');
+* {
+  margin: 0;
+}
+header{
+  border: 12px dashed grey;
+  padding: 20px;  
+  background-color: green;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  text-shadow: 3px 2px red;
+}
+
+
+h2{
+  font-size: 55px;
+  font-family: 'Indie Flower', cursive;
+  border: 2px black;
+  text-align: center;
+  text-shadow: 3px 2px grey;
+}
+
+#explanation{
+  padding: 30px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 3px 2px;
+  background-color: purple;
+  
+}
+#first{
+  text-align: center;
+  background-color: blue;
+  padding: 100px;
+  margin-left: 650px;
+  margin-right: 530px;
+  border: 12px dashed grey;
+  
+}
+
+#second{
+  text-align: left;
+  background-color: pink;
+  padding: 100px;
+margin-left: 650px;
+  margin-right: 530px;
+  border: 12px dashed grey;
+}
+
+#third{
+  text-align:center;
+  background-color: lime;
+  padding: 100px;
+  margin-left: 650px;
+  margin-right: 530px;
+  border: 12px dashed grey;
+}
+
+#fourth{
+  text-align:center;
+  background-color: red;
+  padding: 100px;
+  margin-left: 650px;
+  margin-right: 530px;
+  border: 12px dashed grey;
+}
+
+#fifth{
+  text-align:center;
+  background-color: yellow;
+  padding: 100px;
+  margin-left: 650px;
+  margin-right: 530px;
+  border: 12px dashed grey;
+}
+
+#sixth{
+  text-align:center;
+  background-color: orange;
+  padding: 100px;
+  margin-left: 650px;
+  margin-right: 530px;
+  border: 12px dashed grey;
+}
+
+footer{
+  text-align: center;
+  background-color: green;
+  font-family: 'Indie Flower', cursive;
+  margin-left: 650px;
+  margin-right: 530px;
+  padding:  80px;
+   text-shadow: 3px 2px red;
+  font-size: 30px;
+  border: 12px dashed grey;
+}
